@@ -1,5 +1,5 @@
 {
-  "name": "audio-transcript-builder",
+  "name": "dc-transcriber",
   "version": "1.0.0",
   "private": true,
   "scripts": {

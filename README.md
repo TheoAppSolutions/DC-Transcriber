@@ -1,4 +1,4 @@
-# Noted — Audio Transcript Builder
+# dc-transcriber — Audio Transcript Builder
 
 A workspace for listening to audio, editing a timestamped transcript, and exporting TXT or SRT subtitles. The bundled sample works without a key. Audio and drafts are not saved by the app; refreshing clears your work.
 
